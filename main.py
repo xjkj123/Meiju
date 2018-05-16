@@ -175,8 +175,7 @@ def getallmovie():
 
 
 if __name__ == '__main__':
-    # geturl('怪奇物语',1,1)
-    #sqlite3.connect('sql.db')
+
     update(['闪电侠','神盾局特工','少年谢尔顿','氪星'])
 
 
